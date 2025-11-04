@@ -1,1 +1,4 @@
 this is an example of merging
+this is an git traiing.
+Sachin Tendulkar
+Sehwag.
